@@ -1,0 +1,71 @@
+img {
+	width: 400px;
+}
+
+h3 {
+	padding:25px;
+	text-align: center;
+}
+
+body {
+
+	background-color: MistyRose;
+}
+
+td { 
+	font-size: 24px;
+
+ }
+
+ a:visited{
+ 	color:MediumTurquoise;
+ }
+
+ #recipeBackground {
+ 	background-color:PaleTurquoise;
+ }
+ 
+ #favfoodsback {
+ 	background-color:Plum;
+ }
+
+ #restaurantsback {
+ 	background-color:Tomato;
+ }
+
+
+ #pastarecipe {
+ 	background-color: Yellow;
+ }
+
+ #recipeImg {
+ 	width : 300px;
+ 	height: 175px;
+ 	margin: 15px
+ }
+
+
+#ingredientlist {
+	color: Red;
+}
+
+#ul {
+	color: Orange;
+}
+
+#instructions {
+	color: Green;
+}
+
+#ol {
+	color:Blue;
+}
+
+
+#pancakerecipe {
+	background-color: OldLace;
+}
+
+#pbjrecipe {
+	background-color: DarkKhaki 
+}

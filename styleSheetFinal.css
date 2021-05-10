@@ -1,0 +1,268 @@
+
+body {
+    font-family: 'Corben';font-size: 40px;
+}
+
+h2 {
+	text-align: center
+}
+
+img {
+	width : 380px;
+ 	height: 245px;
+ 	margin: 15px
+}
+
+p {
+	font-size: 25px;
+	text-align: center;
+}
+
+ol {
+	font-size: 25px;
+}
+
+ul {
+	font-size: 25px;
+}
+
+ a:visited{
+ 	color:MediumTurquoise;
+ }
+
+a:unvisited{
+	color:#455FEA;
+}
+
+#homepageP {
+	text-align: center; 
+	color: White;
+	font-family: 'Delius';font-size: 25px;
+
+}
+
+#HomepageH2 {
+	color:White;
+}
+
+#homepage {
+	background-color:#FFE89A
+
+}
+
+#lemonpage {
+	background-color:#FCF9C9;
+}
+
+#strawberrypage {
+	background-color:#FFD4D0;
+}
+
+#stra {
+	color:#FFD4D0;
+}
+
+#lemons {
+	font-family: 'Dawning of a New Day';
+	font-size: 65px;
+}
+
+#didYouKnow {
+	text-align:left;
+	font-size: 33px;
+}
+
+#pineapplepage {
+	background-color:#F9F9BE;
+}
+
+#pin {
+	color:#F9F9BE;
+}
+
+#peachpage {
+	background-color:#F9DBBE;
+}
+
+#peac {
+	color:#F9DBBE;
+}
+#watermelonpage {
+	background-color:#F9C5BE;
+}
+
+#water {
+	color:#F9C5BE;
+}
+
+#bananapage {
+	background-color:#FDFFDD;
+}
+
+#banan {
+	color:#FDFFDD;
+}
+
+#grapefruitpage {
+	background-color:#F9C6C6;
+}
+
+#grape {
+	color:#F9C6C6;
+}
+
+
+#lemonysnicket {
+	font-family: 'Cutive Mono';
+	font-size: 40px;
+}
+
+#lemonysnicketpage {
+	background-color:#EAE3E3;
+}
+
+#paintingpage {
+	background-color:#FFFADC;
+}
+
+#paintp1 {
+	color:Black;
+	font-family: 'Fredericka the Great';
+	font-size: 50px;
+	text-align: left;
+
+}
+
+#paintp2 {
+	font-size: 25px;
+	text-align: left;
+}
+
+#paintp3 {
+	font-size: 25px;
+	text-align: right;
+
+}
+
+#paintp32 {
+	font-size: 20px;
+	text-align: right;
+	color: white;
+
+}
+
+#paintp4 {
+	color:Black;
+	font-family: 'Fredericka the Great';
+	font-size: 50px;
+	text-align: right;
+}
+
+#Homepagepainting {
+	color:Black;
+	font-family: 'Amatic SC';
+	font-size: 120px;
+}
+
+#paint {
+	width : 510px;
+ 	height: 350px;
+ 	margin: 30px;
+ 	border: 25px solid #FFD52F;
+}
+
+#contact {
+	width : 1220px;
+	height: 270px;
+	margin: 15px;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#white {
+	color: White;
+}
+
+#whites {
+	font-family: 'Amatic SC';
+	font-size: 60px;
+	color: White;
+	text-align: left;
+}
+
+
+#yells {
+	color:#FFE89A;
+}
+
+.button {
+  background-color: #FFFFFF;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  transition-duration: 0.4s;
+}
+
+.button1:hover {
+  background-color: #8FFFE9; 
+  color: white;
+}
+
+
+#lem {
+	color:#FFFADC;
+}
+
+
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #FFE89A;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: white;
+  color:#FFE89A;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 100px;
+  margin-right: 175px;
+  margin-left: 175px;
+  margin-top:120px;
+
+}

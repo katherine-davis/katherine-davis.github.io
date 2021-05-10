@@ -1,0 +1,16 @@
+###########################################################################
+#********************************--day 14 pt2--********************************
+
+
+#aggregation -> fancy word for collection
+basket = 0
+word = input("What word do you want? ")
+#word = "abchiabchello"
+
+for index in range(0,len(word)):  #0, 1, 2, 3...-7
+    egg = word[index]
+    if egg ==("a"):
+        basket = basket + 1  #update (video time 6:51)
+
+print (basket)
+print ("done")
